@@ -2,8 +2,8 @@
 
 ###Käyttäjänä haluan: 
 * Paikantaa itseni mobiililaitteen avulla kartalle
-* Nähdä sovelluksesta luokan nimen, jossa olen
-* Paikantaa lähimmän vapaan luokkahuoneen
+* Nähdä sovelluksesta luokan nimen, jossa tällä hetkellä olen
+* Paikantaa vapaita luokkahuoneita
 * Saada reittiohjeet haluamaani muuhun luokkahuoneeseen
 
 ###Alkutila:
