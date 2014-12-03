@@ -1,6 +1,6 @@
 ## Käyttötapaukset
 
-Käyttäjänä haluan: 
+#Käyttäjänä haluan: 
 * Paikantaa itseni mobiililaitteen avulla kartalle
 * Nähdä sovelluksesta luokan nimen, jossa olen
 * Paikantaa lähimmän vapaan luokkahuoneen
