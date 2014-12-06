@@ -1,3 +1,3 @@
 ## Käyttöliittymä
 
-Käyttöliittymän perusnäkymä on kartta josta näet oman sijaintisi kerroksessa jossa olet. Pystyt vaihtamaan kerrosta ja klikkaamalla luokkahuoneita ja saamaan niistä näin lisätietoa sekä reittiohjeet paikasta toiseen. Voit myös etsiä luokkahuoneita niiden nimellä tai numerolla.
+Käyttöliittymän perusnäkymässä on neljä välilehteä: asetukset, ruokalista, luokkahuoneet ja navigointi. Kartasta näet oman sijaintisi kerroksessa jossa olet. Voit myös etsiä luokkahuoneita niiden nimellä tai numerolla. Navigointi toimii yhdessä luokkahuoneet välilehden kanssa ja voit saada reittiohjeen suoraan valitsemalla halutun tilan listalta.
